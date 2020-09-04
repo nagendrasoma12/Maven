@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Sep 03 20:01:39 IST 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1599143499390
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact net.wasdev.wlp.starters.springboot-web\:provided-pom\:pom\:0.0.6 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
